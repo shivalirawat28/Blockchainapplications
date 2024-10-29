@@ -6,4 +6,5 @@ Blockchain technology's remarkable features have been talked about for some time
 
 
 Blockchain is a secure database that is distributed across a network, where every participant gets access to the latest data at the same time. To put it simply, blockchain works as a decentralized network of blocks that keeps track of transaction records.
-<img width="472" alt="Blockchain diagram" src="https://github.com/user-attachments/assets/22f95de4-0e24-40c4-b279-6bfbab178cfe">
+
+<img width="800" alt="Blockchain diagram" src="https://github.com/user-attachments/assets/22f95de4-0e24-40c4-b279-6bfbab178cfe">
